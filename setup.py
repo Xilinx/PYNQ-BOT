@@ -44,7 +44,7 @@ if 'BOARD' not in os.environ or os.environ['BOARD'] != 'Pynq-Z1':
 setup(
     name = "PYNQ-BOT",
     version = '1.0',
-    url = 'https://gitenterprise.xilinx.com/bhageshc/PYNQ-ROBOT',
+    url = 'https://github.com/Xilinx/PYNQ-BOT',
     license = 'Apache Software License',
     author = "Bhagesh C. Maheshwari , Giulio Gambardella",
     author_email = "pynq_support@xilinx.com",
