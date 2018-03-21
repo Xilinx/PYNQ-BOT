@@ -49,7 +49,7 @@ Following robotics kit and components were used to assemble the PYNQ-BOT.
 -  The Ipython notebook can be found under the folder `clone_path/PYNQ-BOT/notebook`
 
 - In Ipython notebook, execute all the cells,  then at the end you will see robot control widgets.  Just press the buttons to control robot movement and sliders to rotate the camera up/down or left/right. 
-
+ 
 
 ##  Control register addresses of IPs 
 ![alt text](https://github.com/Xilinx/PYNQ-BOT/blob/master/Register_Address_Mapping.jpg)
