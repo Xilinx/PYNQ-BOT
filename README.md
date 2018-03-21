@@ -50,7 +50,6 @@ Following robotics kit and components were used to assemble the PYNQ-BOT.
 
 - In Ipython notebook, execute all the cells,  then at the end you will see robot control widgets.  Just press the buttons to control robot movement and sliders to rotate the camera up/down or left/right. 
 
-- The Ipython notebook uses MMIO class to configure the IPs using Memory mapped registers.  If you rebuild the hardware design, make sure to cross check the memory map addresses and change it accordingly in MMIO instantiation in notebook. 
 
 ##  Control register addresses of IPs 
 ![alt text](https://github.com/Xilinx/PYNQ-BOT/blob/master/Register_Address_Mapping.jpg)
